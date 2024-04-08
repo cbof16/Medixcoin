@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MEDICOIN: A Healthcare Innovation Funding Platform
+
+Powered by Next.js, MEDICOIN revolutionizes healthcare funding by enabling stakeholders to participate in lockdrop campaigns for supporting healthcare innovation projects. Leveraging lockdrop CW20 tokens provided by Andromeda, users can deposit native tokens to fund research, development, and implementation of new healthcare technologies or treatments. In return, participants receive CW20 tokens representing investment or usage rights in the projects. The platform serves as a collaborative hub, fostering partnerships between researchers, healthcare providers, investors, and patients to drive innovation and improve healthcare outcomes. With Andromeda's cutting-edge blockchain solutions, the platform ensures secure and transparent transactions, empowering stakeholders to contribute to groundbreaking healthcare initiatives.
+
+## Features
+
+- **<span style="color:#4CAF50">Secure Funding:</span>**
+  - Stakeholders participate in Lockdrop campaigns using CW20 tokens.
+
+- **<span style="color:#4CAF50">Transparent Transactions:</span>**
+  - Andromeda's blockchain solutions ensure secure and transparent transactions.
+
+- **<span style="color:#4CAF50">Collaborative Hub:</span>**
+  - Fostering partnerships between researchers, healthcare providers, investors, and patients.
+
+- **<span style="color:#4CAF50">CW20 Token Utility</span>**
+  -Users can utilize their CW20 tokens within the platform ecosystem.They may choose to hold onto the tokens as investments or use them to participate in voting, governance, or future project funding rounds.
 
 ## Getting Started
 
@@ -20,17 +36,21 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Documentation
+To learn more, read Andromeda OS Official documentation. [Documentation]([https://linktodocumentation](https://docs.andromedaprotocol.io/andromeda))
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Presentation Link: 
+- <span style="color:#4CAF50">[Presentation](https://gamma.app/docs/MEDICOIN--ftc2fihso1em4fj)</span>
 
-## Deploy on Vercel
+## Flow Link: 
+- <span style="color:#4CAF50">[Flow](https://whimsical.com/T2miTo4PTH8HyP2EKNSVWz)</span>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributors
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- <span style="color:#4CAF50">[Tanmay Sharma](https://github.com/cbof16)</span>
+- <span style="color:#4CAF50">[Sheshank](https://github.com/SheshanK017)</span>
+- <span style="color:#4CAF50">[Rishabh Suryavanshi](https://github.com/rishh01)</span>
+- <span style="color:#4CAF50">[Shashant Thakur](https://github.com/thakurshashant)</span>
+
