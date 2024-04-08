@@ -2,16 +2,16 @@
 import { disconnectAndromedaClient } from "@/zustand/andromeda";
 import { ChevronDownIcon, CloseIcon, ExternalLinkIcon } from "@chakra-ui/icons";
 import {
-    Badge,
-    Button,
-    HStack,
-    Image,
-    Input,
-    Popover,
-    PopoverBody,
-    PopoverContent,
-    PopoverTrigger,
-    Text,
+  Badge,
+  Button,
+  HStack,
+  Image,
+  Input,
+  Popover,
+  PopoverBody,
+  PopoverContent,
+  PopoverTrigger,
+  Text,
 } from "@chakra-ui/react";
 import { useState } from "react";
 
