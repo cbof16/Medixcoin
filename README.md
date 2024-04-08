@@ -36,6 +36,12 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Contract Instantiation
+![Contract Instantiation](https://i.ibb.co/3FTYqMY/Instantiate-contract.png)
+
+## Contract Execution
+![Contract Execution](https://i.ibb.co/7gT2Qbq/Screenshot-from-2024-04-08-10-18-20.png)
+
 ## Documentation
 To learn more, read Andromeda OS Official documentation. [Documentation](https://docs.andromedaprotocol.io/andromeda)
 
