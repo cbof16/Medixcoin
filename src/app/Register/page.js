@@ -1,8 +1,9 @@
-
+"use client";
+import Link from 'next/link';
 import { useState } from 'react';
 
 
-const Register = () => {
+const page = () => {
   const [formData, setFormData] = useState({
     name: '',
     country: '',
@@ -22,7 +23,7 @@ const Register = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const router=useRouter();
+  
     
     console.log(formData);
     setFormData({
@@ -105,8 +106,10 @@ const Register = () => {
               className="ml-2 flex-1 py-2 px-4 border border-gray-300 rounded-md shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
             />
           </div>
+         <Link href="/">
+         <button  type="submit" onSubmit={handleSubmit} className="bg-none text-blueSecondary border border-blueSecondary px-4 py-2 rounded-2xl hover:bg-blue hover:text-rishabh hover:border-rishabh transition duration-300  font-bold font-aldrich text-xl ml-48"  >Submit</button>
+         </Link>
          
-          <button  type="submit" onSubmit={handleSubmit} className="bg-none text-blueSecondary border border-blueSecondary px-4 py-2 rounded-2xl hover:bg-blue hover:text-rishabh hover:border-rishabh transition duration-300  font-bold font-aldrich text-xl"  >Submit</button>
         </div>
       </form>
     </div>
@@ -114,4 +117,4 @@ const Register = () => {
   );
 };
 
-export default Register;
+export default page;
